@@ -5,7 +5,7 @@ This Python script scrapes data from notices listed on The Gazette website and s
 ## Usage
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/gazette-notices-scraper.git
+    git clone https://github.com/baberibrar/hr_force_task.git
     ```
 2. Navigate to the project directory:
     ```
